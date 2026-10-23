@@ -1,4 +1,4 @@
-ugnetshell_bypass.php 
+ugnetpriv_bypasscmd
 
 Password: ugnetshell2024
 ##
